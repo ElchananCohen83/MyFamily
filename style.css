@@ -3,10 +3,10 @@ body{
 }
 h1{
     text-transform: uppercase;
+        color: #F1C40F;
 }
 div{
     width: 50%;
-    color: #F1C40F;
     margin: auto;
     margin-top: 100px;
     text-align: center;
